@@ -1,0 +1,29 @@
+! Title: Streaming Ads Blocklist  
+! Description: Blocks ads on popular streaming websites
+! Created by Rijad Hodzic
+! Last updated: 2024-11-15  
+
+||ads.streamingdomain1.com^  
+||ads.streamingdomain2.com^  
+||banners.streamingplatform.com^  
+||cdn.advertisements.net^  
+||popupstreamingads.com^  
+||tracking.streamingads.net^  
+||streamingadsanalytics.com^  
+||video-ads.cdn-provider.com^  
+||promo.streamingservice.com^  
+||ads.videoplayercdn.com^  
+||adclick.trackingplatform.net^  
+||streaming-popup-ads.com^  
+||ads-cdn.streamhoster.com^  
+||bannerad.streamingplatform.net^  
+||adserve.videostream.net^  
+||tracking.popupads.com^  
+||streamingads.redirects.com^  
+||ads.widgetcdn.net^  
+||preroll-adserver.com^  
+||adserver.streamcdn.net^  
+||ads.videohoster.net^  
+||ad-delivery.streamprovider.com^  
+||popups.streamingads.net^  
+||interstitial.streamingads.com^ 
